@@ -1,3 +1,18 @@
+The Large Movie Review Dataset (often referred to as the "IMDb dataset") is a popular benchmark dataset for natural language processing (NLP) tasks such as sentiment analysis and text classification.
+
+The dataset contains 50,000 movie reviews from the IMDb website, split evenly between positive and negative reviews. The reviews were collected in 2011 and have since been widely used in research on NLP and machine learning.
+
+Each review in the dataset is labeled as either "positive" or "negative," based on the overall sentiment expressed in the text. The reviews vary in length, but most are several sentences long and provide a detailed description of the movie being reviewed.
+
+The dataset has been preprocessed to remove HTML tags, punctuation, and other non-essential information, and is available in both raw text format and preprocessed format for ease of use.
+
+Researchers often use the Large Movie Review Dataset to train and test NLP models for sentiment analysis and text classification tasks. The dataset has been used to benchmark many state-of-the-art NLP models, and is considered a standard benchmark for evaluating the performance of new NLP models and techniques.
+
+
+
+
+
+
 Large Movie Review Dataset v1.0
 
 Overview
